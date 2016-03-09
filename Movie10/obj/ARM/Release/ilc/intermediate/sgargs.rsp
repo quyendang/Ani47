@@ -1,0 +1,9 @@
+/out:"D:\Project\Movie10\Movie10\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"D:\Project\Movie10\Movie10\obj\ARM\Release\ilc\intermediate\\"
+/ref:"D:\Project\Movie10\Movie10\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"D:\Project\Movie10\Movie10\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Private\\"
+/ref:"D:\Project\Movie10\Movie10\obj\ARM\Release\ilc\in\\"
+/ref:"D:\Project\Movie10\Movie10\obj\ARM\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib
+"@D:\Project\Movie10\Movie10\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\ComputedSerializationInput.txt"

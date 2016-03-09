@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-125"
+"ResourceDimensions"		"scale-125"
+
+[Files]
+"D:\Project\Movie10\Movie10\obj\ARM\Release\split.scale-125.pri"			"resources.pri"
+"D:\Project\Movie10\Movie10\obj\ARM\Release\PackageLayout\Assets\StoreLogo.scale-125.png"			"Assets\StoreLogo.scale-125.png"

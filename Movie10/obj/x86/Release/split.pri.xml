@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="2880QuyenUIT.MovieFree" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="AdMediator.config" uri="ms-resource://2880QuyenUIT.MovieFree/Files/AdMediator.config">
+				<Candidate type="Path">
+					<Value>AdMediator.config</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ApplicationInsights.config" uri="ms-resource://2880QuyenUIT.MovieFree/Files/ApplicationInsights.config">
+				<Candidate type="Path">
+					<Value>ApplicationInsights.config</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BlankPage1.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/BlankPage1.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage1.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/MainPage1.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileMain.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/MobileMain.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Movie10.xr.xml" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Movie10.xr.xml">
+				<Candidate type="Path">
+					<Value>Movie10.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StyleMovie.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/StyleMovie.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="AdDuplex">
+				<NamedResource name="InterstitialUserControl.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/AdDuplex/InterstitialUserControl.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Windows 10 SDK.xr.xml" uri="ms-resource://2880QuyenUIT.MovieFree/Files/AdDuplex/Windows 10 SDK.xr.xml">
+					<Candidate type="Path">
+						<Value>AdDuplex\Windows 10 SDK.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/AdDuplex/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Menu">
+					<NamedResource name="Audience-50.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Menu/Audience-50.png">
+						<Candidate type="Path">
+							<Value>Assets\Menu\Audience-50.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Calendar-50.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Menu/Calendar-50.png">
+						<Candidate type="Path">
+							<Value>Assets\Menu\Calendar-50.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Category-128.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Menu/Category-128.png">
+						<Candidate type="Path">
+							<Value>Assets\Menu\Category-128.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Category-50.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Menu/Category-50.png">
+						<Candidate type="Path">
+							<Value>Assets\Menu\Category-50.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Category.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Menu/Category.png">
+						<Candidate type="Path">
+							<Value>Assets\Menu\Category.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CD-50.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Menu/CD-50.png">
+						<Candidate type="Path">
+							<Value>Assets\Menu\CD-50.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Film Reel-50.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Menu/Film Reel-50.png">
+						<Candidate type="Path">
+							<Value>Assets\Menu\Film Reel-50.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Guest-50.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Menu/Guest-50.png">
+						<Candidate type="Path">
+							<Value>Assets\Menu\Guest-50.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="info-icon.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Menu/info-icon.png">
+						<Candidate type="Path">
+							<Value>Assets\Menu\info-icon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Last 24 Hours-50.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Menu/Last 24 Hours-50.png">
+						<Candidate type="Path">
+							<Value>Assets\Menu\Last 24 Hours-50.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Like Filled-50.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Menu/Like Filled-50.png">
+						<Candidate type="Path">
+							<Value>Assets\Menu\Like Filled-50.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Retro TV-50.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Menu/Retro TV-50.png">
+						<Candidate type="Path">
+							<Value>Assets\Menu\Retro TV-50.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Sent-50.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Menu/Sent-50.png">
+						<Candidate type="Path">
+							<Value>Assets\Menu\Sent-50.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="yelp.png" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Assets/Menu/yelp.png">
+						<Candidate type="Path">
+							<Value>Assets\Menu\yelp.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.AdMediator.Universal">
+				<NamedResource name="Microsoft.AdMediator.Universal.xr.xml" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Microsoft.AdMediator.Universal/Microsoft.AdMediator.Universal.xr.xml">
+					<Candidate type="Path">
+						<Value>Microsoft.AdMediator.Universal\Microsoft.AdMediator.Universal.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Microsoft.AdMediator.Universal/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Views">
+				<ResourceMapSubtree name="Mobile">
+					<ResourceMapSubtree name="Controls">
+						<NamedResource name="CategoryControl.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Views/Mobile/Controls/CategoryControl.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="MovieMobile.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Views/Mobile/Controls/MovieMobile.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Pannel.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Views/Mobile/Controls/Pannel.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="SearchControl.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Views/Mobile/Controls/SearchControl.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="VideoMobile.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Views/Mobile/Controls/VideoMobile.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="YearControl.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Views/Mobile/Controls/YearControl.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="PC">
+					<NamedResource name="MovieControl.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Views/PC/MovieControl.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="VideoPage.xbf" uri="ms-resource://2880QuyenUIT.MovieFree/Files/Views/PC/VideoPage.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Microsoft.Advertising.winmd" uri="ms-resource://2880QuyenUIT.MovieFree/Files/WinMetadata/Microsoft.Advertising.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Microsoft.Advertising.winmd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Windows.winmd" uri="ms-resource://2880QuyenUIT.MovieFree/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

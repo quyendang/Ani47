@@ -1,0 +1,13 @@
+﻿<UserControl
+    x:Class="Movie10.Views.Mobile.Controls.SearchControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Movie10.Views.Mobile.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <TextBox x:Name="searchBox" PlaceholderText="type a key..." KeyUp="searchBox_KeyUp" Height="40" VerticalAlignment="Top" BorderBrush="Green"/>
+    </Grid>
+</UserControl>

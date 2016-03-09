@@ -1,0 +1,2 @@
+MainPackage=D:\Project\Movie10\Movie10\bin\x86\Release\Movie10_9.2.3.0_x86.appx
+SymbolPackage=D:\Project\Movie10\Movie10\AppPackages\Movie10_9.2.3.0_Test\Movie10_9.2.3.0_x86.appxsym

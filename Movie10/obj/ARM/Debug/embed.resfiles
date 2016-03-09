@@ -1,0 +1,14 @@
+App.xbf
+BlankPage1.xbf
+MainPage.xbf
+MainPage1.xbf
+MobileMain.xbf
+StyleMovie.xbf
+Views\Mobile\Controls\CategoryControl.xbf
+Views\Mobile\Controls\MovieMobile.xbf
+Views\Mobile\Controls\Pannel.xbf
+Views\Mobile\Controls\SearchControl.xbf
+Views\Mobile\Controls\VideoMobile.xbf
+Views\Mobile\Controls\YearControl.xbf
+Views\PC\MovieControl.xbf
+Views\PC\VideoPage.xbf

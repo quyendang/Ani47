@@ -1,0 +1,5 @@
+"/t:Microsoft.AdMediator.Core.Models.AdMediatorConfiguration,Microsoft.AdMediator.Core,dcs"
+"/t:Microsoft.AdMediator.Core.Utilities.PersistentParameters,Microsoft.AdMediator.Core,dcs"
+"/t:System.Collections.Generic.IEnumerable`1[[Microsoft.AdMediator.Core.Events.SdkError,Microsoft.AdMediator.Core]],System.Runtime,json"
+"/t:AdDuplex.Interstitials.Models.InterstitialAdInfo,AdDuplex,json"
+"/t:AdDuplex.Banners.Models.BannerAdInfo,AdDuplex,json"

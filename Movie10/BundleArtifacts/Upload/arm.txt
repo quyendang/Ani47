@@ -1,0 +1,6 @@
+MainPackage=D:\Project\Movie10\Movie10\bin\ARM\Release\Upload\Movie10_9.2.3.0_ARM.appx
+SymbolPackage=D:\Project\Movie10\Movie10\AppPackages\Movie10_9.2.3.0\Movie10_9.2.3.0_ARM.appxsym
+ResourcePack=D:\Project\Movie10\Movie10\_scale-100.appx
+ResourcePack=D:\Project\Movie10\Movie10\_scale-125.appx
+ResourcePack=D:\Project\Movie10\Movie10\_scale-150.appx
+ResourcePack=D:\Project\Movie10\Movie10\_scale-400.appx

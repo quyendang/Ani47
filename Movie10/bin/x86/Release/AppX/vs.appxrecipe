@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-RQQQ4D4</Machine>
+    <WindowsUser>Quyen</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>206eb6e0-4f97-4a5e-bb46-bc01bdbe37d6</PackageIdentityName>
+    <IntermediateOutputPath>D:\Project\Movie10\Movie10\obj\x86\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>453AECB44E6BA6FCA6DAF9E775CAB0CB59ECD7E606D93E3EF347D26EA35ECD17</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2880QuyenUIT.MovieFree_9.2.3.0_x86__hrycvqnyq718e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2880QuyenUIT.MovieFree_hrycvqnyq718e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2880QuyenUIT.MovieFree</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=99982F1D-6D27-4614-B6E2-FF26735BEC26</RegisteredPackagePublisher>
+    <RegisteredVersion>9.2.3.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-16T16:15:22.179</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\AdDuplex.winmd">
+      <PackagePath>AdDuplex.winmd</PackagePath>
+      <Modified>2015-12-16T15:18:11.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\AdMediator.config">
+      <PackagePath>AdMediator.config</PackagePath>
+      <Modified>2015-12-16T15:36:17.718</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+      <Modified>2015-11-23T06:12:15.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-08-26T18:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Menu\Audience-50.png">
+      <PackagePath>Assets\Menu\Audience-50.png</PackagePath>
+      <Modified>2015-12-09T17:53:04.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Menu\Calendar-50.png">
+      <PackagePath>Assets\Menu\Calendar-50.png</PackagePath>
+      <Modified>2015-12-09T17:57:02.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Menu\Category-128.png">
+      <PackagePath>Assets\Menu\Category-128.png</PackagePath>
+      <Modified>2015-11-23T07:51:08.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Menu\Category-50.png">
+      <PackagePath>Assets\Menu\Category-50.png</PackagePath>
+      <Modified>2015-12-10T14:05:19.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Menu\Category.png">
+      <PackagePath>Assets\Menu\Category.png</PackagePath>
+      <Modified>2015-11-23T07:53:03.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Menu\CD-50.png">
+      <PackagePath>Assets\Menu\CD-50.png</PackagePath>
+      <Modified>2015-12-09T12:53:16.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Menu\Film Reel-50.png">
+      <PackagePath>Assets\Menu\Film Reel-50.png</PackagePath>
+      <Modified>2015-12-09T13:03:04.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Menu\Guest-50.png">
+      <PackagePath>Assets\Menu\Guest-50.png</PackagePath>
+      <Modified>2015-12-09T18:34:45.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Menu\info-icon.png">
+      <PackagePath>Assets\Menu\info-icon.png</PackagePath>
+      <Modified>2015-11-24T10:13:39.433</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Menu\Last 24 Hours-50.png">
+      <PackagePath>Assets\Menu\Last 24 Hours-50.png</PackagePath>
+      <Modified>2015-12-09T17:54:50.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Menu\Like Filled-50.png">
+      <PackagePath>Assets\Menu\Like Filled-50.png</PackagePath>
+      <Modified>2015-12-09T13:07:47.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Menu\Retro TV-50.png">
+      <PackagePath>Assets\Menu\Retro TV-50.png</PackagePath>
+      <Modified>2015-12-09T17:49:17.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Menu\Sent-50.png">
+      <PackagePath>Assets\Menu\Sent-50.png</PackagePath>
+      <Modified>2015-12-09T11:54:48.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Menu\yelp.png">
+      <PackagePath>Assets\Menu\yelp.png</PackagePath>
+      <Modified>2015-11-24T09:42:09.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T15:23:46.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-28T14:31:01.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T15:18:49.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T15:18:22.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T15:19:02.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T15:16:31.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T15:17:34.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T15:16:17.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T15:16:01.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T15:15:37.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-24T15:22:14.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+      <Modified>2015-11-22T16:04:44.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Microsoft.AdMediator.Universal\Themes\Generic.xbf">
+      <PackagePath>Microsoft.AdMediator.Universal\Themes\Generic.xbf</PackagePath>
+      <Modified>2015-11-05T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Movie10.dll">
+      <PackagePath>Movie10.dll</PackagePath>
+      <Modified>2015-12-16T16:15:19.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\Movie10.exe">
+      <PackagePath>Movie10.exe</PackagePath>
+      <Modified>2015-12-16T16:15:22.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-16T16:11:33.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Project\Movie10\Movie10\bin\x86\Release\ilc\VungleSDK.winmd">
+      <PackagePath>VungleSDK.winmd</PackagePath>
+      <Modified>2015-12-09T18:42:23.039</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Advertising.Xaml\10.0\">
+      <Name>Microsoft.Advertising.Xaml</Name>
+      <Version>10.0.1510.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Advertising.Xaml, MinVersion=10.0.1510.0, Publisher=%27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Advertising.Xaml\10.0\.\AppX\ARM\Microsoft.Advertising.Xaml.ARM.10.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkID=619694</MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Advertising.Xaml\10.0\">
+      <Name>Microsoft.Advertising.Xaml</Name>
+      <Version>10.0.1510.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Advertising.Xaml, MinVersion=10.0.1510.0, Publisher=%27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Advertising.Xaml\10.0\.\AppX\x64\Microsoft.Advertising.Xaml.x64.10.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkID=619694</MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Advertising.Xaml\10.0\">
+      <Name>Microsoft.Advertising.Xaml</Name>
+      <Version>10.0.1510.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Advertising.Xaml, MinVersion=10.0.1510.0, Publisher=%27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Advertising.Xaml\10.0\.\AppX\x86\Microsoft.Advertising.Xaml.x86.10.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkID=619694</MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x64\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x86\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
